@@ -77,7 +77,7 @@ Pull the LED cable through the white reflector:
 
 **Step 4 - Connect and place the LED strip**
 
-Place the LED strip on to the base. Put as much cable as possible below the reflector for the best result. You can cut of the excessive LEDs
+Place the LED strip on to the base. Put as much cable as possible below the reflector for the best result. You can cut off the excessive LEDs.
 
 <table>
 <tr>
@@ -98,7 +98,7 @@ After placing, test if everything works as expected:
 <img src="./images/IMG_3173.jpeg" />
 
 > [!NOTE]
-> It might that not all LEDs are on. By default WLED only enables the first 30 LEDs. If you need to increase this amount go into the WLED web interface to Config -> LED Preferences and change the length to the correct number, usually 38:
+> It might be that not all LEDs are on. By default WLED only enables the first 30 LEDs. If you need to increase this amount go into the WLED web interface to Config -> LED Preferences and change the length to the correct number, usually 38:
 
 <img src="./images/wled-length.png" />
 
